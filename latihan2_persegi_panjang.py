@@ -16,5 +16,5 @@ print(f"Keliling persegi panjang: {keliling} m")
 # | 4     | 10.0    | 20.0  |      |          |        
 # | 6     | 10.0    | 20.0  |200.0 |          |        
 # | 7     | 10.0    | 20.0  |200.0 |60.0      |        
-# | 9     | 10.0    | 20.0  |200.0 |60.0      |Luas persegi panjang: 200.0 m2        
+# | 9     | 10.0    | 20.0  |200.0 |60.0      |Luas persegi panjang    : 200.0 m2        
 # | 10    | 10.0    | 20.0  |200.0 |60.0      |Keliling persegi panjang: 60.0 m        
