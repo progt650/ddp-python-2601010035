@@ -1,5 +1,5 @@
-#Program Biodata
-#Menampilkan nama,nim,prodi,dan juga hobi dengan f-string
+# Program Biodata
+# Menampilkan nama, nim, prodi, dan juga hobi dengan f-string
 nama_lengkap = "Davin Kurniawan"
 nim = 2601010035
 prodi = "Sistem Informasi" 
